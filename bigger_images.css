@@ -1,0 +1,32 @@
+.sku-wrap .sku-property-image>img {
+    max-width: 250px !important;
+    max-height: 250px !important;
+}
+
+.sku-wrap .sku-property-image {
+    width: 250px !important;
+    height: 250px !important;
+    position: relative;
+}
+
+
+.price_detail{
+    background-color: #f5e97c;
+    position: absolute;
+    left: -10px;
+    top: 0;
+    font-size: 18px;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: 600;
+}
+
+.priceperunit{
+    position: absolute;
+    left: -10px;
+    top: 40px;
+    font-size: 18px;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: 600;
+}
